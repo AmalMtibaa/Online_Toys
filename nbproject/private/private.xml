@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/asus/NetBeansProjects/JEEProject(1)/web/WEB-INF/Acceuil-servlet.xml</file>
+            <file>file:/C:/Users/asus/NetBeansProjects/JEEProject(1)/src/java/com/controller/AcceuilController.java</file>
+            <file>file:/C:/Users/asus/NetBeansProjects/JEEProject(1)/web/WEB-INF/jsp/AjoutAdmin.jsp</file>
+            <file>file:/C:/Users/asus/NetBeansProjects/JEEProject(1)/src/java/com/dao/JouetDao.java</file>
+            <file>file:/C:/Users/asus/NetBeansProjects/JEEProject(1)/web/WEB-INF/jsp/AjoutJouet.jsp</file>
+            <file>file:/C:/Users/asus/NetBeansProjects/JEEProject(1)/web/WEB-INF/jsp/Acceuil.jsp</file>
+            <file>file:/C:/Users/asus/NetBeansProjects/JEEProject(1)/web/WEB-INF/jsp/AjoutPanier.jsp</file>
+            <file>file:/C:/Users/asus/NetBeansProjects/JEEProject(1)/src/java/com/dao/CategorieDao.java</file>
+            <file>file:/C:/Users/asus/NetBeansProjects/JEEProject(1)/web/WEB-INF/jsp/FormulaireClient.jsp</file>
+            <file>file:/C:/Users/asus/NetBeansProjects/JEEProject(1)/web/WEB-INF/jsp/AjoutCategorie.jsp</file>
+            <file>file:/C:/Users/asus/NetBeansProjects/JEEProject(1)/web/WEB-INF/jsp/UpdateJouet.jsp</file>
+            <file>file:/C:/Users/asus/NetBeansProjects/JEEProject(1)/src/java/com/models/Commande.java</file>
+            <file>file:/C:/Users/asus/NetBeansProjects/JEEProject(1)/web/WEB-INF/jsp/Deconnexion.jsp</file>
+            <file>file:/C:/Users/asus/NetBeansProjects/JEEProject(1)/web/WEB-INF/jsp/AboutUs.jsp</file>
+            <file>file:/C:/Users/asus/NetBeansProjects/JEEProject(1)/web/WEB-INF/jsp/CommandeDelivree.jsp</file>
+            <file>file:/C:/Users/asus/NetBeansProjects/JEEProject(1)/src/java/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/asus/NetBeansProjects/JEEProject(1)/src/java/com/models/Jouet.java</file>
+            <file>file:/C:/Users/asus/NetBeansProjects/JEEProject(1)/web/WEB-INF/jsp/listeJouetsASupprimer.jsp</file>
+        </group>
+    </open-files>
+</project-private>
